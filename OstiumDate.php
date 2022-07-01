@@ -12,11 +12,14 @@
  * @link		https://wolestech.com
  */
 
-require_once 'OstiumDate/Calculation.php';
-
 /**
  * Format dan perhitungan tanggal PHP untuk Bahasa Indonesia
  */
+
+namespace rzlco666\OstiumDate;
+
+use Calculation;
+
 class OstiumDate extends Calculation
 {
     /**
