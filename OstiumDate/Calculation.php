@@ -12,6 +12,7 @@
  * @link		https://wolestech.com
  */
 
+namespace rzlco666\OstiumDate\OstiumDate;
 
 require_once 'helper.php';
 
