@@ -4,6 +4,11 @@ Perhitungan dan Pemformatan Tanggal PHP untuk Bahasa Indonesia
 ## Deskripsi
 <strong>OstiumDate</strong> adalah sebuah library perhitungan dan pemformatan tanggal yang diperuntukkan khusus untuk Bahasa Indonesia. Fungsi perhitungan tanggal pada library ini menggunakan fungsi bawaan PHP yang disederhanakan agar lebih mudah digunakan.
 
+## How-to-install
+Menggunakan composer<br>
+```
+composer require rzlco666/ostium-date
+```
 ## How-it-works
 Buat object untuk class OstiumDate<br>
 ```
