@@ -10,12 +10,13 @@
 	],
 	"homepage" : "https://github.com/rzlco666/OstiumDate",
 	"license" : "MIT",
-	"authors" : [{
-			"name" : "Adnan Zaki",
-			"email" : "adnan_zaki@hotmail.co.id",
-			"homepage" : "https://wolestech.com",
-		}
-	],
+	"authors": [
+		{
+		    "name": "Adnan Zaki",
+		    "email": "adnan_zaki@hotmail.co.id",
+		    "homepage": "https://wolestech.com"
+		},
+    	],
 	"require" : {
 		"php" : ">=5.6.0"
 	},
