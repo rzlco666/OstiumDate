@@ -1,0 +1,27 @@
+{
+	"name" : "rzlco666/ostium-date",
+	"type" : "library",
+	"description" : "PHP Date Calculation and Formatting for Indonesian",
+	"keywords" : [
+		"date",
+		"formatter",
+		"bahasa",
+		"indonesia"
+	],
+	"homepage" : "https://github.com/rzlco666/OstiumDate",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "Adnan Zaki",
+			"email" : "adnan_zaki@hotmail.co.id",
+			"homepage" : "https://wolestech.com",
+		}
+	],
+	"require" : {
+		"php" : ">=5.6.0"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"rzlco666\\OstiumDate\\": ""
+		}
+	}
+}
